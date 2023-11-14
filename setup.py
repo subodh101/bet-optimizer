@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bet_optimizer',  # Name of package
-    version='0.1',  # Version number
+    version='0.0.1',  # Version number
     packages=find_packages(),  # List of all Python modules to be installed
     description='Python script for optimizing bets',  # Short description of library
     long_description=open('README.md').read(),  # Long description read from the the readme file
